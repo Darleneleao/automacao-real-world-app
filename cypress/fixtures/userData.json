@@ -1,0 +1,24 @@
+{
+    "UserSuccess": {
+        "username": "Dada",
+        "password": "123456"
+    },
+    "UserFail": {
+        "username": "Dada",
+        "password": "test123"
+    },
+    "UserRegisterSuccess": {
+        "firstName": "Dada",
+        "lastName": "Souza",
+        "username": "Dada",
+        "password": "123456",
+        "confirmPassword": "123456"
+    },
+    "UserRegisterFail": {
+        "firstName": "Darlene",
+        "lastName": "Souza",
+        "username": "Dada",
+        "password": "123456",
+        "confirmPassword": "123"
+    }
+}
