@@ -1,4 +1,4 @@
-# Real World App
+# Automação de Testes Web – Real World App
 
 O Real World App é uma plataforma simulada criada para demonstrar o uso real de padrões e estratégias de testes com Cypress. Ele é uma ferramenta poderosa para aprendizado em cenários reais de desenvolvimento. Uma aplicação web que simula funcionalidades bancárias, como transferências, pagamentos e gerenciamento de contas. 
 
