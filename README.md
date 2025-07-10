@@ -22,6 +22,7 @@ Este projeto tem como principal objetivo aplicar na prática os conhecimentos ad
 
 - **Linguagem:** JavaScript
 - **Framework de Testes:** Cypress
+- **Aplicação de testes:** "Real World App" 
 
 ## Como Executar
 
